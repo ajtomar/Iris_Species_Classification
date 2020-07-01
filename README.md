@@ -15,3 +15,5 @@ PetalLengthCm
 PetalWidthCm
 
 Species
+
+Our task is to classify all the iris samples into three iris species using KNN algorithm.
